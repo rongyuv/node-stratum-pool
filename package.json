@@ -32,8 +32,8 @@
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
-        "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
-        "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
+        "merkle-bitcoin": "git+https://github.com/DirtyHarryDev/merkle-bitcoin.git",
+        "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
         "promise": "*"
     },
     "engines": {
